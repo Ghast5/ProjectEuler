@@ -24,7 +24,7 @@ public class Problem25
 
             Console.WriteLine(num3);
 
-            if (num3.ToString().Length == 3)
+            if (num3.ToString().Length == 1000)
                 return index;
         } 
     }
